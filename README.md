@@ -6,6 +6,8 @@ This tool can create, update, cancel schedule functions.
 
 Project is build using Java 1.8 and used Maven for build.
 
+**Used H2 has a database for storing the data.**
+
 Lets see example for each functions,
 
 - Creating a schedule for Employee with Employee ID **MMT01**
